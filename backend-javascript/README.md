@@ -1,4 +1,5 @@
-#help
+# help
+
 ```bash
 node polkadot.js --help
 
@@ -12,7 +13,8 @@ Options:
   --ws <wsurl>           WsProvider URL
   --help                 display help for command
 ```
-#example
+# example
+
 ```bash
 node polkadot.js -h 0xf9458a04eb8bff12afc4064b4d327e5a59c8384a84dc2b180e5601b16359125d
 
